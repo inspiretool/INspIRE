@@ -1,4 +1,4 @@
-![Banner](Images/banner-INspIRE.png)
+
 
 <p align="center">
   <img src="Images/banner-INspIRE.png" alt="Banner" width="100%" />
