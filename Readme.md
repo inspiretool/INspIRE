@@ -18,6 +18,6 @@ This makes the tool an intelligent advisor, helping organisation prioritise acti
 # Demo Video
 <p align="center">
   <a href="Demo/Demo-video-v1.mp4">
-    <img src="Demo/thumbnail-v1.png" alt="Watch the Demo" width="700">
+    <img src="Demo/thumbnail-v1.png" alt="Watch the Demo" width="900">
   </a>
 </p>
