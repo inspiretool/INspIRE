@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 **INspIRE** is a cyber Incident Response Simulator, Training and Strategy Optimisation tool. It is an interactive decision-support tool designed for practicing and evaluating incident response strategies in dynamic network environments (including relevant sectors such as health-care, financial, military). Built with realism in mind, this simulator models cyber threats (based on MITRE and CWE databased) such as ransomware, evaluates the effectiveness of defensive and recovery actions, and provides real-time feedback on the so-called **business continuity index** (B_net), financial damage, and system degradation over time.
 
 This tool can be helpful for security analysts, students, and professionals to experiment with containment, eradication, and recovery actions across simulated networks. It offers realistic simulation of progressive actions, supports dependency-aware workflows, and visualises network connectivity and impact propagation while tracking operational and economic metrics like downtime, resilience, and damage cost.
