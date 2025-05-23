@@ -21,7 +21,7 @@ This makes the tool an intelligent advisor, helping organisation prioritise acti
 </p>
  
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=UQco6_Wa6kk">
+  <a href="https://www.youtube.com/watch?v=UQco6_Wa6kk" target="_blank">
     <img src="Demo/thumbnail-v1.png" alt="Watch the Demo" width="900">
   </a>
 </p>
