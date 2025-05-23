@@ -19,7 +19,7 @@ This makes the tool an intelligent advisor, helping organisation prioritise acti
 
 <p align="center">
   <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/UQco6_Wa6kk)">
-    <img src="assets/demo_thumbnail.png" alt="Watch the Demo" width="700">
+    <img src="Demo/thumbnail-v1.png" alt="Watch the Demo" width="700">
   </a>
 </p>
 
