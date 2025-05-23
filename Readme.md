@@ -16,8 +16,10 @@ The tool incorporate a novel AI-assisted optimisation engine that dynamically as
 This makes the tool an intelligent advisor, helping organisation prioritise actions, minimise business loss, and provide informed investment decisions. 
 
 # Demo Video
+
 <p align="center">
-  <a href="Demo/Demo-video-v1.mp4">
-    <img src="Demo/thumbnail-v1.png" alt="Watch the Demo" width="900">
+  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/UQco6_Wa6kk)">
+    <img src="assets/demo_thumbnail.png" alt="Watch the Demo" width="700">
   </a>
 </p>
+
