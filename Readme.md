@@ -17,7 +17,7 @@ This makes the tool an intelligent advisor, helping organisation prioritise acti
 
 # Demo Video 
 <p align="center">
-  <b>Click on the thumbnal below:</b>
+  <b>Click on the thumbnail below:</b>
 </p>
  
 <p align="center">
