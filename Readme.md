@@ -17,12 +17,26 @@ This makes the tool an intelligent advisor, helping organisation prioritise acti
 
 # Demo Video 
 <p align="center">
-  <b>Click on the thumbnail below:</b>
+  <b>Click on the thumbnails below for playing the videos on YouTube:</b>
+</p>
+
+<p align="left">
+  <b>Failed Incident Response & Call for Optimisation and Guide:</b>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=NvSvcuArMbw" target="_blank">
+    <img src="Demo/thumbnail-failed.png" alt="Watch the Demo" width="900">
+  </a>
+</p>
+
+<p align="left">
+  <b>A Successful Incident Response Guided by the Proposed Strategy:</b>
 </p>
  
 <p align="center">
   <a href="https://www.youtube.com/watch?v=UQco6_Wa6kk" target="_blank">
-    <img src="Demo/thumbnail-v1.png" alt="Watch the Demo" width="900">
+    <img src="Demo/thumbnail-achieved.png" alt="Watch the Demo" width="900">
   </a>
 </p>
 
